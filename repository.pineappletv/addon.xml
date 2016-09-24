@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.pineappletv" name="PineApple.Tv Repository" version="1.0" provider-name="emre.ay">
+	<extension point="xbmc.addon.repository" name="PineApple.Tv Repository">
+		<info compressed="false">http://raw.github.com/emreaydogdu/PineApple.TV-Repository/master/addons.xml</info>
+		<checksum>http://raw.github.com/emreaydogdu/PineApple.TV-Repository/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/emreaydogdu/PineApple.TV-Repository/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>PineAppleTv Skin included</summary>
+		<description>PineAppleTv Skin: go to /Look and feel/Skin/PineAppleTv</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
